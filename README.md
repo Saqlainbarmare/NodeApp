@@ -22,7 +22,7 @@ To run this project, you will need to add the following environment variables to
 Clone to the Nodetest repository and run the following commands.
 
 ```bash
-  git clone https://github.com/Saqlainbarmare/Crudapp.git
+  git clone https://github.com/Saqlainbarmare/NodeApp.git
   cd crud
   npm install
   npm run dev
